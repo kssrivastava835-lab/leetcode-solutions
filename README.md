@@ -29,6 +29,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -52,6 +53,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -60,4 +62,8 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
