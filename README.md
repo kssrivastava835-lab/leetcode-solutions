@@ -29,6 +29,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -53,6 +54,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
