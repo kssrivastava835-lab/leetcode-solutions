@@ -35,6 +35,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Queue
@@ -61,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
@@ -72,4 +74,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
