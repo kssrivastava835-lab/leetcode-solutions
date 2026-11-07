@@ -7,12 +7,14 @@
 | [0076-minimum-window-substring](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -81,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 <!---LeetCode Topics End-->
