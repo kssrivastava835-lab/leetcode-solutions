@@ -43,6 +43,7 @@
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0875-koko-eating-bananas](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
