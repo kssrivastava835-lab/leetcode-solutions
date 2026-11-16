@@ -38,6 +38,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -64,6 +65,7 @@
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -120,6 +123,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
