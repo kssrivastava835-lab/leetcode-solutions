@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## String
@@ -42,6 +43,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -105,6 +107,7 @@
 | [0020-valid-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -117,5 +120,6 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
