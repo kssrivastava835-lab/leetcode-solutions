@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,12 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
