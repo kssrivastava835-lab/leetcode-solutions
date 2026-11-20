@@ -15,6 +15,7 @@
 | [0020-valid-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0394-decode-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -115,6 +116,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -145,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
