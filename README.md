@@ -107,6 +107,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@
 | [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
