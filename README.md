@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0141-linked-list-cycle](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -31,6 +32,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0567-permutation-in-string](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -164,5 +166,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
