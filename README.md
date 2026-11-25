@@ -172,4 +172,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/kssrivastava835-lab/leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 <!---LeetCode Topics End-->
